@@ -1,0 +1,171 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: #747474  
+
+}
+.docp-logo {
+    width: 268px;
+    height: 33px;
+    margin: 20px 10px;
+
+    img {
+        width: 100%;
+    }
+    
+    head-link {
+        margin-top: 30px;
+        margin-right: 15%;
+        white-space: nowrap;
+        .nav-link {
+            padding: 2%;
+        }
+        
+        .nav-link a {
+            color: #747474;
+            text-decoration: none;
+        }
+        
+        nav-link a:hover {
+            color: #00b39b;
+            cursor: pointer;
+            footer {
+                height: 75px;
+                width: 100%;
+                border-top: 1px solid grey;
+                font-size: .75em;
+                color: #ababab;
+                text-align: center;
+                line-height: 2.2;
+            }
+            footer a {
+                color: #3d83df;
+                text-decoration: none;
+            }
+            
+            footer a:hover {
+                text-decoration: underline;
+                .service-section,
+.statis-section {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10%;
+}
+    .logo-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+
+    .doc-logo {
+    
+        width: 40px;
+        height: 40px;
+    }
+        
+.slogan-text {
+    margin-top: 15px;
+    color: #00b39b;
+    font-size: 1.625em;
+    font-weight: 500;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    /* margin-top: 50px; */
+    overflow: hidden;
+}
+.description-container {
+    width: 478px;
+    height: 112px;
+    line-height: 1.75;
+    margin: 25px;
+    white-space: normal;
+}
+.patient-div {
+    width: 478px;
+    height: 391px;
+    max-width: 478px;
+    max-height: 391px;
+    border-radius: 10px;
+    background-color: #00ccb1;
+    white-space: normal;
+    overflow: hidden;
+
+
+}
+.division-title {
+    color: hsla(0, 0%, 100%, .7);
+    font-size: 14px;
+    padding-left: 30px;
+    padding-top: 15px;
+
+}
+.division-desc {
+    color: #fff;
+    font-size: 27px;
+    padding-left: 30px;
+
+}
+.country-selection {
+    margin: 3% 2% 0% 7%;
+    width: 80px;
+    height: 45px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.country-selection select {
+    width: 175px;
+    height: 40px;
+    border-radius: 5px;
+    background: #fff;
+    border: 0;
+    text-transform: uppercase;
+    padding: 3% 2% 0% 10%;
+}
+.scmrktplace-img {
+    width: 100%;
+    margin-left: 47%;
+    margin-top: -2.3em;
+}
+.scmrktplace-img img {
+    max-width: 350px;
+
+}
+#doctor-div {
+    background-color: #3d83df;
+    margin-left: 25px;
+
+
+}
+#service-div,
+#desc-div,
+#company-brands {
+    flex-direction: row;
+    justify-content: center;
+}
+#doctor-desc {
+    margin-bottom: 75px;
+}
+
+#company-slogan {
+    width: 16%;
+    margin-left: 15%;
+
+}
+}
+
+.brand-logo {
+    list-style: none;
+
+}
+
+.brand-logo li {
+    font-size: 16px;
+    display: inline-block;
+    width: 168px;
+    padding-right: 5px;
+}
